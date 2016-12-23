@@ -1,0 +1,903 @@
+fileFormatVersion: 2
+guid: 1eac77413aa8dee49be19d513702fb0e
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Wizards_rgl
+    100004: Wizards_war_face
+    100006: Wizards_war_jaw
+    100008: Wizards_weaponR
+    100010: Wizardscloth_back
+    100012: Wizardscloth_front
+    100014: WizardsHead
+    100016: WizardsLCalf
+    100018: WizardsLCollarbone
+    100020: WizardsLDigit11
+    100022: WizardsLDigit11 1
+    100024: WizardsLDigit12
+    100026: WizardsLDigit13
+    100028: WizardsLDigit21
+    100030: WizardsLDigit22
+    100032: WizardsLDigit23
+    100034: WizardsLDigit31
+    100036: WizardsLDigit32
+    100038: WizardsLDigit33
+    100040: WizardsLFoot
+    100042: WizardsLForearm
+    100044: WizardsLPalm
+    100046: WizardsLThigh
+    100048: WizardsLUpperarm
+    100050: WizardsNeck
+    100052: WizardsPelvis
+    100054: WizardsRCalf
+    100056: WizardsRCollarbone
+    100058: WizardsRDigit11
+    100060: WizardsRDigit11 1
+    100062: WizardsRDigit12
+    100064: WizardsRDigit13
+    100066: WizardsRDigit21
+    100068: WizardsRDigit22
+    100070: WizardsRDigit23
+    100072: WizardsRDigit31
+    100074: WizardsRDigit32
+    100076: WizardsRDigit33
+    100078: WizardsRFoot
+    100080: WizardsRForearm
+    100082: WizardsRibcage
+    100084: WizardsRPalm
+    100086: WizardsRThigh
+    100088: WizardsRUpperarm
+    100090: WizardsSpine1
+    100092: WizardsSpine2
+    100094: WizardsSpine3
+    400000: //RootNode
+    400002: Wizards_rgl
+    400004: Wizards_war_face
+    400006: Wizards_war_jaw
+    400008: Wizards_weaponR
+    400010: Wizardscloth_back
+    400012: Wizardscloth_front
+    400014: WizardsHead
+    400016: WizardsLCalf
+    400018: WizardsLCollarbone
+    400020: WizardsLDigit11
+    400022: WizardsLDigit11 1
+    400024: WizardsLDigit12
+    400026: WizardsLDigit13
+    400028: WizardsLDigit21
+    400030: WizardsLDigit22
+    400032: WizardsLDigit23
+    400034: WizardsLDigit31
+    400036: WizardsLDigit32
+    400038: WizardsLDigit33
+    400040: WizardsLFoot
+    400042: WizardsLForearm
+    400044: WizardsLPalm
+    400046: WizardsLThigh
+    400048: WizardsLUpperarm
+    400050: WizardsNeck
+    400052: WizardsPelvis
+    400054: WizardsRCalf
+    400056: WizardsRCollarbone
+    400058: WizardsRDigit11
+    400060: WizardsRDigit11 1
+    400062: WizardsRDigit12
+    400064: WizardsRDigit13
+    400066: WizardsRDigit21
+    400068: WizardsRDigit22
+    400070: WizardsRDigit23
+    400072: WizardsRDigit31
+    400074: WizardsRDigit32
+    400076: WizardsRDigit33
+    400078: WizardsRFoot
+    400080: WizardsRForearm
+    400082: WizardsRibcage
+    400084: WizardsRPalm
+    400086: WizardsRThigh
+    400088: WizardsRUpperarm
+    400090: WizardsSpine1
+    400092: WizardsSpine2
+    400094: WizardsSpine3
+    4300000: mage_rgl
+    4300002: mage_rgl_cloth
+    4300004: mage_staff_08
+    4300006: mage_skn
+    4300008: mage_head_02
+    4300010: mage_head_01
+    4300012: mage_staff_07
+    4300014: Wizards_rgl
+    7400000: run
+    11100000: //RootNode
+    13700000: Wizards_rgl
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: 
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human:
+    - boneName: WizardsPelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsLThigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsRThigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsLCalf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsRCalf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsLFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsRFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsSpine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsSpine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsNeck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsHead
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsLCollarbone
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsRCollarbone
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsLUpperarm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsRUpperarm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsLForearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsRForearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsLPalm
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsRPalm
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsLDigit11
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsRDigit11
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Wizards_war_face
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Wizards_war_jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsLDigit21
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsLDigit22
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsLDigit23
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsLDigit11 1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsLDigit12
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsLDigit13
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsLDigit31
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsLDigit32
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsLDigit33
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsRDigit21
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsRDigit22
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsRDigit23
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsRDigit11 1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsRDigit12
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsRDigit13
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsRDigit31
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsRDigit32
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WizardsRDigit33
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: FH_Wizards(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Wizards_belt
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Wizards_hair_01
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Wizards_hair_02
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Wizards_head_01
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Wizards_head_02
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Wizards_head_03
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Wizards_hood
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Wizards_rgl
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Wizards_rgl_cloth
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Wizards_shoulderpad_01
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Wizards_shoulderpad_02
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Wizards_shoulderpad_03
+      position: {x: 0.111345515, y: 0.12451606, z: 0.56563455}
+      rotation: {x: 0.897709, y: 0.056855958, z: -0.0003482309, w: -0.43690482}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+      transformModified: 1
+    - name: Wizards_skn
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Wizards_skn_cloth
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WizardsPelvis
+      position: {x: 0.00000004053116, y: 0.83509946, z: -0.17255042}
+      rotation: {x: 0.49912703, y: -0.5008716, z: -0.4991269, w: 0.5008715}
+      scale: {x: 1.0000017, y: 0.9999988, z: 1.000001}
+      transformModified: 1
+    - name: WizardsLThigh
+      position: {x: -0.022869263, y: 0.06235322, z: 0.08218527}
+      rotation: {x: 0.017487273, y: 0.99896556, z: 0.0041097403, w: 0.041776344}
+      scale: {x: 1.0000001, y: 1.000002, z: 0.99999857}
+      transformModified: 1
+    - name: WizardsLCalf
+      position: {x: -0.40670294, y: 0.000000076293944, z: 0.000000019073486}
+      rotation: {x: 0.0006895662, y: -0.0007525087, z: 0.05413844, w: 0.99853295}
+      scale: {x: 0.99999946, y: 0.9999987, z: 0.9999997}
+      transformModified: 1
+    - name: WizardsLFoot
+      position: {x: -0.43515307, y: 0.000000014305114, z: 0}
+      rotation: {x: -0.075849585, y: -0.005243705, z: -0.7139855, w: 0.6960203}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000002}
+      transformModified: 1
+    - name: WizardsLDigit11
+      position: {x: -0.19795789, y: 0.013694872, z: 0.000002222061}
+      rotation: {x: -0.000000007450577, y: 0.00000020665208, z: -0.054379143, w: 0.9985204}
+      scale: {x: 0.99999994, y: 0.99999964, z: 0.9999999}
+      transformModified: 1
+    - name: Wizardscloth_front
+      position: {x: 0.0006600952, y: 0.18918821, z: 0.01745321}
+      rotation: {x: -0.000000029802319, y: 0.00000019371507, z: 1, w: -0.00000013411044}
+      scale: {x: 1, y: 1.0000006, z: 0.99999917}
+      transformModified: 1
+    - name: WizardsRThigh
+      position: {x: -0.02286911, y: 0.062353227, z: -0.08218527}
+      rotation: {x: 0.017487613, y: 0.9989655, z: -0.0041099037, w: -0.041776266}
+      scale: {x: 0.99999946, y: 1.0000026, z: 0.99999785}
+      transformModified: 1
+    - name: WizardsRCalf
+      position: {x: -0.40670305, y: 0.000000057220458, z: -0.000000038146972}
+      rotation: {x: -0.00070485467, y: 0.00082197774, z: 0.054075323, w: 0.99853635}
+      scale: {x: 0.9999999, y: 0.9999983, z: 1.0000002}
+      transformModified: 1
+    - name: WizardsRFoot
+      position: {x: -0.43515316, y: 0.000000009536743, z: -0.000000019073486}
+      rotation: {x: 0.076026395, y: 0.005327253, z: -0.71395445, w: 0.696032}
+      scale: {x: 1.0000007, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: WizardsRDigit11
+      position: {x: -0.19795792, y: 0.0136948675, z: -0.0000022315978}
+      rotation: {x: 0.000009108334, y: -0.00016707477, z: -0.05433571, w: 0.99852276}
+      scale: {x: 0.99999964, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: Wizardscloth_back
+      position: {x: -0.000073394775, y: -0.020993194, z: -0.0021671688}
+      rotation: {x: -0.000000029802322, y: 0.00000020861626, z: 1, w: 0}
+      scale: {x: 0.9999991, y: 0.99999994, z: 0.99999815}
+      transformModified: 1
+    - name: WizardsSpine1
+      position: {x: -0.060706176, y: -0.0046446607, z: -0.000000011473894}
+      rotation: {x: 0.00000043213367, y: 0.000000029802322, z: 0.14902784, w: -0.98883307}
+      scale: {x: 0.99999815, y: 0.9999988, z: 0.99999857}
+      transformModified: 1
+    - name: WizardsSpine2
+      position: {x: -0.18673919, y: 0, z: -2.9802322e-10}
+      rotation: {x: -0.00000038743013, y: -0.000000029802319, z: -0.1664974, w: -0.9860419}
+      scale: {x: 1, y: 1.0000029, z: 0.99999964}
+      transformModified: 1
+    - name: WizardsSpine3
+      position: {x: -0.15907684, y: 0, z: -0.0000000017881393}
+      rotation: {x: 0, y: 0.000000014901159, z: 0.07543165, w: 0.99715096}
+      scale: {x: 0.99999833, y: 0.99999994, z: 0.999999}
+      transformModified: 1
+    - name: WizardsRibcage
+      position: {x: -0.17094825, y: 0, z: 0}
+      rotation: {x: 0.000000014901159, y: 0.000000014901159, z: 0.09479669, w: -0.99549663}
+      scale: {x: 1.0000008, y: 1.0000006, z: 1.0000012}
+      transformModified: 1
+    - name: WizardsLCollarbone
+      position: {x: 0.018280258, y: 0.1068948, z: 0.048845205}
+      rotation: {x: -0.034453772, y: -0.7081841, z: -0.18829408, w: -0.6795834}
+      scale: {x: 1.0000004, y: 0.9999997, z: 0.9999992}
+      transformModified: 1
+    - name: WizardsLUpperarm
+      position: {x: -0.13545759, y: -0.0000000023841857, z: 0}
+      rotation: {x: 0.14906475, y: 0.00018996457, z: -0.16029216, w: 0.97574896}
+      scale: {x: 0.99999934, y: 1.0000019, z: 0.99999946}
+      transformModified: 1
+    - name: WizardsLForearm
+      position: {x: -0.2624839, y: 0, z: 0}
+      rotation: {x: 0.083117, y: -0.005065396, z: -0.019678118, w: 0.99633265}
+      scale: {x: 1.0000019, y: 0.99999744, z: 1.000001}
+      transformModified: 1
+    - name: WizardsLPalm
+      position: {x: -0.20296271, y: 0.000000019073486, z: 0}
+      rotation: {x: -0.76061875, y: 0.04930343, z: 0.03645512, w: 0.6462966}
+      scale: {x: 0.9999999, y: 1.0000002, z: 0.9999997}
+      transformModified: 1
+    - name: WizardsLDigit11 1
+      position: {x: -0.033516005, y: 0.0008336258, z: 0.008250961}
+      rotation: {x: 0.5974811, y: 0.1525023, z: -0.054470137, w: 0.78536135}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: WizardsLDigit12
+      position: {x: -0.056502417, y: 0, z: 0}
+      rotation: {x: -0.06594506, y: -0.011369427, z: 0.02698941, w: 0.9973934}
+      scale: {x: 1.0000005, y: 1.0000002, z: 0.9999997}
+      transformModified: 1
+    - name: WizardsLDigit13
+      position: {x: -0.037284315, y: 0, z: 0}
+      rotation: {x: 0.0000012814999, y: 0.00000044703484, z: 0.19707721, w: 0.980388}
+      scale: {x: 0.9999998, y: 0.9999995, z: 1.0000002}
+      transformModified: 1
+    - name: WizardsLDigit21
+      position: {x: -0.13191757, y: 0.000117244716, z: 0.039006196}
+      rotation: {x: 0.00045544223, y: 0.042032927, z: 0.014127633, w: 0.9990162}
+      scale: {x: 0.9999997, y: 1.0000005, z: 1.0000001}
+      transformModified: 1
+    - name: WizardsLDigit22
+      position: {x: -0.04756073, y: 0.000000019073486, z: -0.000000038146972}
+      rotation: {x: 0.0000014859252, y: 0.0000017243437, z: 0.03267348, w: 0.9994661}
+      scale: {x: 1.0000006, y: 0.9999995, z: 0.9999997}
+      transformModified: 1
+    - name: WizardsLDigit23
+      position: {x: -0.037284374, y: -0.000000114440915, z: 0.000000038146972}
+      rotation: {x: 0.00000052154064, y: 0.000000035390258, z: 0.028674547, w: 0.99958885}
+      scale: {x: 0.99999887, y: 1.0000001, z: 0.99999976}
+      transformModified: 1
+    - name: WizardsLDigit31
+      position: {x: -0.13110115, y: 0.005544338, z: 0.006095657}
+      rotation: {x: -0.012358212, y: 0.06486579, z: 0.033505686, w: 0.9972548}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1}
+      transformModified: 1
+    - name: WizardsLDigit32
+      position: {x: -0.0459153, y: 0.000000019073486, z: 0}
+      rotation: {x: -0.0021998745, y: -0.00023854701, z: 0.034616295, w: 0.99939823}
+      scale: {x: 1.0000007, y: 0.99999946, z: 0.9999996}
+      transformModified: 1
+    - name: WizardsLDigit33
+      position: {x: -0.030402374, y: -0.000000038146972, z: 0.000000038146972}
+      rotation: {x: -0.0013609305, y: -0.006550992, z: 0.23871008, w: 0.9710679}
+      scale: {x: 1, y: 0.9999998, z: 1.0000005}
+      transformModified: 1
+    - name: WizardsRCollarbone
+      position: {x: 0.018280335, y: 0.1068948, z: -0.048845194}
+      rotation: {x: -0.034453657, y: -0.7081838, z: 0.18829405, w: 0.6795837}
+      scale: {x: 1.0000014, y: 1.0000001, z: 1.000001}
+      transformModified: 1
+    - name: WizardsRUpperarm
+      position: {x: -0.13545758, y: -0.000000014305114, z: 0}
+      rotation: {x: -0.14906475, y: -0.00019028776, z: -0.1602921, w: 0.975749}
+      scale: {x: 1.0000002, y: 0.99999905, z: 0.99999976}
+      transformModified: 1
+    - name: WizardsRForearm
+      position: {x: -0.2624838, y: -0.000000019073486, z: 0}
+      rotation: {x: -0.08311703, y: 0.005065648, z: -0.01967867, w: 0.99633265}
+      scale: {x: 1.0000001, y: 0.9999993, z: 1.0000004}
+      transformModified: 1
+    - name: WizardsRPalm
+      position: {x: -0.20296276, y: 0, z: -0.000000038146972}
+      rotation: {x: 0.76061857, y: -0.04930342, z: 0.03645524, w: 0.64629674}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000001}
+      transformModified: 1
+    - name: WizardsRDigit11 1
+      position: {x: -0.033516005, y: 0.0008336448, z: -0.008251037}
+      rotation: {x: -0.6550997, y: -0.14375867, z: -0.06988613, w: 0.7384401}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: WizardsRDigit12
+      position: {x: -0.056502342, y: 0, z: 0}
+      rotation: {x: 0.1494039, y: 0.031352516, z: 0.020112922, w: 0.98807436}
+      scale: {x: 1, y: 0.9999999, z: 0.99999946}
+      transformModified: 1
+    - name: WizardsRDigit13
+      position: {x: -0.037284363, y: -0.000000076293944, z: 0}
+      rotation: {x: -0.0000013709068, y: -0.0000005364418, z: 0.19707729, w: 0.980388}
+      scale: {x: 1.0000001, y: 0.99999976, z: 1.0000005}
+      transformModified: 1
+    - name: Wizards_weaponR
+      position: {x: -0.09979834, y: -0.023229277, z: 0.016598785}
+      rotation: {x: -0.035207067, y: 0.13262069, z: 0.008917299, w: 0.9905013}
+      scale: {x: 1.000001, y: 0.9999998, z: 1.0000007}
+      transformModified: 1
+    - name: Wizards_staff_01
+      position: {x: -0.0017112088, y: -0.013167758, z: 0.08916992}
+      rotation: {x: 0.84393835, y: 0.53571403, z: -0.027904732, w: -0.0000009890937}
+      scale: {x: 0.9999991, y: 1.0000002, z: 0.9999997}
+      transformModified: 1
+    - name: Wizards_staff_02
+      position: {x: 0.005990503, y: -0.0061170356, z: 0.28599855}
+      rotation: {x: 0.84393805, y: 0.5357144, z: -0.027904393, w: -0.0000011903303}
+      scale: {x: 0.99999917, y: 1.0000001, z: 0.9999998}
+      transformModified: 1
+    - name: Wizards_staff_03
+      position: {x: 0.0035750258, y: -0.0096057225, z: 0.08711812}
+      rotation: {x: 0.84393835, y: 0.53571403, z: -0.027904732, w: -0.0000009890937}
+      scale: {x: 0.9999991, y: 1.0000002, z: 0.9999997}
+      transformModified: 1
+    - name: Wizards_staff_04
+      position: {x: 0.009975753, y: -0.008073958, z: 0.087739825}
+      rotation: {x: 0.84393835, y: 0.53571403, z: -0.027904732, w: -0.0000009890937}
+      scale: {x: 0.9999991, y: 1.0000005, z: 0.99999964}
+      transformModified: 1
+    - name: Wizards_staff_05
+      position: {x: -0.0031104195, y: 0.0034791636, z: 0.08626025}
+      rotation: {x: 0.84393835, y: 0.53571403, z: -0.027904732, w: -0.0000009890937}
+      scale: {x: 0.9999991, y: 1.0000005, z: 0.99999964}
+      transformModified: 1
+    - name: Wizards_staff_06
+      position: {x: -0.0025530553, y: -0.017887233, z: 0.08688763}
+      rotation: {x: 0.84393805, y: 0.5357144, z: -0.027904393, w: -0.0000011903303}
+      scale: {x: 0.99999917, y: 1.0000001, z: 0.9999998}
+      transformModified: 1
+    - name: Wizards_staff_07
+      position: {x: -0.0038476055, y: -0.004848834, z: 0.08719868}
+      rotation: {x: 0.84393835, y: 0.53571403, z: -0.027904732, w: -0.0000009890937}
+      scale: {x: 0.9999991, y: 1.0000005, z: 0.99999964}
+      transformModified: 1
+    - name: Wizards_staff_08
+      position: {x: 0.002399338, y: -0.016269349, z: 0.09049373}
+      rotation: {x: 0.84393805, y: 0.5357144, z: -0.027904393, w: -0.0000011903303}
+      scale: {x: 0.99999917, y: 1.0000001, z: 0.9999998}
+      transformModified: 1
+    - name: Wizards_staff_09
+      position: {x: 0.0063835536, y: -0.009372133, z: 0.08739942}
+      rotation: {x: 0.84393835, y: 0.53571403, z: -0.027904732, w: -0.0000009890937}
+      scale: {x: 0.9999991, y: 1.0000002, z: 0.9999997}
+      transformModified: 1
+    - name: WizardsRDigit31
+      position: {x: -0.13110107, y: 0.005544357, z: -0.0060957335}
+      rotation: {x: 0.01235873, y: -0.06486871, z: 0.033505123, w: 0.99725467}
+      scale: {x: 0.9999995, y: 0.99999946, z: 0.99999976}
+      transformModified: 1
+    - name: WizardsRDigit32
+      position: {x: -0.045915306, y: 0, z: 0.000000076293944}
+      rotation: {x: 0.0022001234, y: 0.00024210275, z: 0.03461788, w: 0.99939823}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000002}
+      transformModified: 1
+    - name: WizardsRDigit33
+      position: {x: -0.030402413, y: 0.000000019073486, z: 0}
+      rotation: {x: 0.001360938, y: 0.0065509817, z: 0.23870999, w: 0.97106785}
+      scale: {x: 0.9999999, y: 0.9999995, z: 1.0000001}
+      transformModified: 1
+    - name: WizardsRDigit21
+      position: {x: -0.13191767, y: 0.000117225645, z: -0.039006196}
+      rotation: {x: -0.00045536074, y: -0.04203429, z: 0.014127251, w: 0.99901617}
+      scale: {x: 1, y: 1, z: 0.9999996}
+      transformModified: 1
+    - name: WizardsRDigit22
+      position: {x: -0.047560725, y: 0, z: 0}
+      rotation: {x: -0.00000069662934, y: 0.0000006505289, z: 0.032671135, w: 0.9994662}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000006}
+      transformModified: 1
+    - name: WizardsRDigit23
+      position: {x: -0.037284356, y: 0.000000009536743, z: -0.000000076293944}
+      rotation: {x: -0.00000053271646, y: -0.00000006332993, z: 0.028674599, w: 0.9995888}
+      scale: {x: 1, y: 0.9999995, z: 0.9999998}
+      transformModified: 1
+    - name: WizardsNeck
+      position: {x: -0.018287582, y: 0.044849396, z: -0.000000019073486}
+      rotation: {x: -0.000000029802326, y: -0.00000013411046, z: -0.011181355, w: -0.9999375}
+      scale: {x: 1.0000014, y: 1, z: 1.0000004}
+      transformModified: 1
+    - name: WizardsHead
+      position: {x: -0.09931137, y: 0, z: -0.0000000011920929}
+      rotation: {x: 0.000000044703484, y: -0.000000014901161, z: -0.011181369, w: 0.99993753}
+      scale: {x: 0.99999964, y: 0.9999994, z: 1.0000004}
+      transformModified: 1
+    - name: Wizards_hair_ponnytail
+      position: {x: 1.531881, y: 0.04451537, z: 0.0000001168251}
+      rotation: {x: 0.7071068, y: 0.000000031116233, z: -0.7071068, w: 0.000000031116233}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Wizards_hat_01
+      position: {x: -0.09061371, y: 0.04092527, z: -0.0032608008}
+      rotation: {x: 0.5370682, y: -0.45995402, z: -0.4599538, w: 0.5370685}
+      scale: {x: 1.1112859, y: 1.1150092, z: 0.9882731}
+      transformModified: 1
+    - name: Wizards_hat_02
+      position: {x: 1.531881, y: 0.04451537, z: 0.0000001168251}
+      rotation: {x: 0.7071068, y: 0.000000031116233, z: -0.7071068, w: 0.000000031116233}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Wizards_hat_03
+      position: {x: 1.531881, y: 0.04451537, z: 0.0000001168251}
+      rotation: {x: 0.7071068, y: 0.000000031116233, z: -0.7071068, w: 0.000000031116233}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Wizards_war_jaw
+      position: {x: -0.010716828, y: 0.049715538, z: 0.0000011067841}
+      rotation: {x: 0.53088486, y: -0.84744394, z: 0.0000007674097, w: -0.00000027567145}
+      scale: {x: 0.99999976, y: 0.9999995, z: 1}
+      transformModified: 1
+    - name: Wizards_war_face
+      position: {x: -0.0974884, y: 0.028021373, z: 0.00000065963985}
+      rotation: {x: -0.6736265, y: 0.73907197, z: -0.0000008754431, w: 0.00000047124917}
+      scale: {x: 1.0000018, y: 1.0000002, z: 0.9999999}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 111580d73d9b7b34492e780fd935a318,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

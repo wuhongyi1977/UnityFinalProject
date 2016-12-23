@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d1e9e6758dd79654196563d8a13abd19
+timeCreated: 1481387945
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - blue_frame_pref: {fileID: 1000014010714502, guid: 88d5619fbe115224f988b99d169f6866,
+      type: 2}
+  - red_frame_pref: {fileID: 1000011342924822, guid: 5bb69f334632546489e087e438f74481,
+      type: 2}
+  - blue_mask_pref: {fileID: 1000011999977874, guid: bc4e7698b16da5a44a3fbcff09a2884a,
+      type: 2}
+  - red_mask_pref: {fileID: 1000013021804972, guid: cd9583587f924d24ab218171c22ee53d,
+      type: 2}
+  - skill_mask_pref: {fileID: 1000011787103238, guid: 9635ecf7e08833f46880aafd3780cd53,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

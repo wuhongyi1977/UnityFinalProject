@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 015578c440cc7c7438eef2eae0fa944b
+timeCreated: 1481387985
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - HP_bar_pref: {fileID: 1000010108259144, guid: 43ef9712b07550d42b36dbed9252d89f,
+      type: 2}
+  - HP_text_pref: {fileID: 1000010111700580, guid: cb5c57212e390614c8544f10d1ed870d,
+      type: 2}
+  - Pass_text_pref: {fileID: 1000011617082316, guid: 8be764f63299e9a449eab843343a0d73,
+      type: 2}
+  - UI: {instanceID: 0}
+  - HP_bar: {instanceID: 0}
+  - HP_text: {instanceID: 0}
+  - Pass_text: {instanceID: 0}
+  - role: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
