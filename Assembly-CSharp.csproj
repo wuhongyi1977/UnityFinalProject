@@ -67,6 +67,7 @@
      <Compile Include="Assets\Scripts\CreateCharacter.cs" />
      <Compile Include="Assets\Scripts\EnterName.cs" />
      <Compile Include="Assets\Scripts\StoryLine.cs" />
+     <Compile Include="Assets\Scripts\UIManager.cs" />
      <Compile Include="Assets\backToPos.cs" />
      <Compile Include="Assets\cha_data\Script\ScreenShot.cs" />
      <Compile Include="Assets\dead.cs" />

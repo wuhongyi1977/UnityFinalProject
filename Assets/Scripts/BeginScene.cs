@@ -25,6 +25,6 @@ public class BeginScene : MonoBehaviour {
 		canvas.enabled = false;
 	}
 	public void StartNewGame(){
-		UnityEngine.SceneManagement.SceneManager.LoadScene("Create", UnityEngine.SceneManagement.LoadSceneMode.Single);
+		//UnityEngine.SceneManagement.SceneManager.LoadScene("Create", UnityEngine.SceneManagement.LoadSceneMode.Single);
 	}
 }
